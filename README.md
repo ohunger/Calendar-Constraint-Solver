@@ -7,3 +7,5 @@ This a program that utilizes multiple algorithmic concepts including pre-process
 
 
 This program is meant to be the culmination of the topics learned during my Algorithms class at LMU. Although it doesn't use all the concepts/data structures etc we learned throughout the course, its difficulty accents the kind of material we learned throughout the semester.
+
+!!!! - CSPSolver.java is the main algorithmic file where primary code was written for the project
